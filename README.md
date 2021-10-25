@@ -1,1 +1,3 @@
 # letterSequence
+
+ready to use.
